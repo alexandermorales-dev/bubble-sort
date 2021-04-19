@@ -30,7 +30,7 @@ This project offers one way of sorting a group of items in an array, where each 
 
 ### Install
 
-- Follow [this](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/installing-ruby-ruby-programming) steps in order to install ruby 
+- Follow [these](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-programming/lessons/installing-ruby-ruby-programming) steps in order to install ruby 
 
 ### Deployment
 
