@@ -12,7 +12,7 @@ def bubble_sort(arr)
       end
     end
   end
-  puts arr
+  arr
 end
 
 # sorting array of strings
@@ -29,7 +29,7 @@ def bubble_sort_by(arr)
       end
     end
   end
-  p arr
+  arr
 end
 
 # calling methods
