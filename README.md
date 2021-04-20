@@ -12,11 +12,6 @@ This project offers one way of sorting a group of items in an array, where each 
 
 - Ruby
 
-## Live Demo
-
-[Live Demo Link](#/)
-
-
 ### Prerequisites
 
 -Web browser
