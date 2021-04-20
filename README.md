@@ -22,7 +22,7 @@ This project offers one way of sorting a group of items in an array, where each 
 -Web browser
 -IDE
 -Ruby
--Renv / IRB (optional) 
+-Renv / IRB (optional). 
 
 ### Setup
 
