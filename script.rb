@@ -21,7 +21,7 @@ def bubble_sort_by(arr)
   changes = true
   while changes
     changes = false
-    0.upto(arr.size - 2) do |i|
+    (arr.size - 1).times do |i|
       compare = yield arr[i], arr[i + 1]
       if compare.positive?
         arr[i], arr[i + 1] = arr[i + 1], arr[i]
