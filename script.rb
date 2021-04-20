@@ -29,7 +29,7 @@ def bubble_sort_by(arr)
       end
     end
   end
-  puts arr
+  p arr
 end
 
 # calling methods
