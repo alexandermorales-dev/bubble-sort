@@ -37,7 +37,7 @@ This project offers one way of sorting a group of items in an array, where each 
 
 👤 **Author**
 
-- GitHub: [@AlexJustAlex2020 ](https://github.com/AlexJustAlex2020/)
+- GitHub: [@Alex ](https://github.com/alexandermorales-dev/)
 - Twitter: [@Alexand81099721 ](https://twitter.com/Alexand81099721)
 - LinkedIn: [AlexanderMorales](https://www.linkedin.com/in/alexander-morales-b8539898/)
 
