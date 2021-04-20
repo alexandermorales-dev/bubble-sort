@@ -35,6 +35,6 @@ end
 # calling methods
 
 bubble_sort([4, 3, 78, 2, 0, 2])
-bubble_sort_by(%w[hey hello hi hey]) do |str1, str2|
+bubble_sort_by(%w[hey hello hiar]) do |str1, str2|
   str1.length - str2.length
 end
