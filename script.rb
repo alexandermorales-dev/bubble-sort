@@ -34,7 +34,7 @@ end
 
 # calling methods
 
-bubble_sort([1, 8, 2, 3, 10, 5, 8])
+bubble_sort([4, 3, 78, 2, 0, 2])
 bubble_sort_by(%w[hey hello hi hey]) do |str1, str2|
   str1.length - str2.length
 end
